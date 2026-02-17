@@ -2,7 +2,7 @@
 
 A **Streamlit-based web app** for uploading, cleaning, and merging CSV files. Designed for data analysts, engineers, and anyone who wants to quickly preprocess CSV datasets without coding.
 
-**Live Demo:** [https://data-cleaning-tool-xl6yabmw3appgi4kwewdaty.streamlit.app)]
+**Live Demo:** [Click here](https://data-cleaning-tool-xl6yabmw3appgi4kwewdaty.streamlit.app)
 
 
 ---

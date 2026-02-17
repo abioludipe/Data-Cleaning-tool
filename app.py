@@ -189,7 +189,7 @@ st.markdown("---")
 
 st.markdown(
     "<p style='text-align:center'>"
-    "<a href='https://ghttps://github.com/abioludipe' target='_blank'>GitHub</a> "
+    "<a href='https://https://github.com/abioludipe' target='_blank'>GitHub</a> "
     "</p>",
     unsafe_allow_html=True
 )
